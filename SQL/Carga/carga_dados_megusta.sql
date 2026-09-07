@@ -124,7 +124,7 @@ INSERT INTO insumo (fk_categoria_insumo, fk_unidade_medida, fk_status, nome, cod
 -- Carnes e embutidos (muito sensíveis - vários ATENÇÃO)
 (3, 4, 2, 'Linguiça Calabresa', 'LIN-001', 5.00, 0, TRUE, NOW()),
 (3, 4, 1, 'Frango Desfiado', 'FRA-001', 6.00, 0, TRUE, NOW()),
-(3, 4, 2, 'Peperoni Fatiado', 'PEP-001', 3.00, 0, TRUE, TRUE, NOW()),
+(3, 4, 2, 'Peperoni Fatiado', 'PEP-001', 3.00, 0, TRUE, NOW()),
 (3, 4, 3, 'Filé Mignon', 'FIL-001', 4.00, 0, TRUE, NOW()),
 (3, 4, 2, 'Camarão Limpo', 'CAM-001', 3.00, 0, TRUE, NOW()),
 (3, 4, 1, 'Presunto', 'PRE-001', 4.00, 0, TRUE, NOW()),
